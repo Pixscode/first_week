@@ -3,3 +3,6 @@ monday
 tues
 
 wed
+
+
+thurs
