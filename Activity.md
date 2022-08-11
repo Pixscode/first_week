@@ -6,3 +6,5 @@ wed
 
 
 thurs
+
+firday
